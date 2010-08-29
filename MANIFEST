@@ -8,4 +8,3 @@ MANIFEST.SKIP
 META.yml
 README
 t/01_basics.t
-t/02_eval.t

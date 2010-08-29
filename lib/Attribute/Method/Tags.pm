@@ -7,7 +7,7 @@ use Attribute::Handlers;
 use Attribute::Method::Tags::Registry;
 use Carp qw( croak );
 
-our $VERSION = '0.10';
+our $VERSION = '0.11';
 
 sub import {
     # add this package to callers @ISA, as attributes only work via inheritance

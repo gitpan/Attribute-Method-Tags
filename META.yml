@@ -13,7 +13,7 @@ name: Attribute-Method-Tags
 provides:
   Attribute::Method::Tags:
     file: lib/Attribute/Method/Tags.pm
-    version: 0.10
+    version: 0.11
   Attribute::Method::Tags::Registry:
     file: lib/Attribute/Method/Tags/Registry.pm
     version: 0.10
@@ -22,4 +22,4 @@ requires:
   Test::More: 0.78
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.10
+version: 0.11
